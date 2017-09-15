@@ -5,21 +5,25 @@ När man använder fork skapas en personlig kopia av en annan persons objekt som
 
 ## Clone
 En clon av projektet man forkat laddas upp så den kan redigeras och sedan pushas.
+
 git clone https://github.com/YourUsername/REPO
 
 
 ## Push
 När man pushar laddas dem ändringar man gjort i sin fil/projekt lokalt på GitHub. (-u sparar repositoryt)
+
 git push -u origin master
 
 
 ## Add
 Om man gör någon sorts ändring måste man använda commandet Add så att git har filen up to date. Efter det kan man committa
+
 git add <Filename>
 
 
 ## Commit
 Sparar indexet av alla ändringar gjorda av Add commandet.
+
 git commit -m "message"
 
 
