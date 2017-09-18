@@ -6,10 +6,9 @@ När man använder fork skapas en personlig kopia av en annan persons objekt som
 ## Clone
 En clon av projektet man forkat laddas upp så den kan redigeras och sedan pushas.
 
-git add <Filename>
+git clone https://github.com/YourUsername/REPO
 
 
-## Commit
 
 
 ## Push
